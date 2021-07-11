@@ -1,7 +1,7 @@
 # azure-cms-setup
 
 
-[https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/MSAL-Quick.gif](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/MSAL-Quick.gif)
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/MSAL-Quick.gif)
 
 
 ## Project Write up (part of the assignment)

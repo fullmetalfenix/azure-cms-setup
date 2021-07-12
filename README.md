@@ -4,6 +4,25 @@
 ![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/MSAL-Quick.gif)
 
 
+
+
+
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/add-a-post.gif)
+
+
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/blob-storage.gif)
+
+
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/logins.PNG)
+
+
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/sql-storage.solution.JPG)
+
+
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/standard-login.gif)
+
+
+
 ## Project Write up (part of the assignment)
 
 

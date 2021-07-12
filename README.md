@@ -13,7 +13,7 @@
 ![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/blob-storage.gif)
 
 
-![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/logins.PNG)
+![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/login.PNG)
 
 
 ![Login](https://github.com/fullmetalfenix/azure-cms-setup/blob/main/imgs/sql-storage.solution.JPG)
